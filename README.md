@@ -1,4 +1,4 @@
-> # 🧭 Навигация по проектам и обучению для поступления в РГРТУ (ФВТ/ФАИТУ) и карьеры инженера-программиста
+ # 🧭 Навигация по проектам и обучению для поступления в РГРТУ (ФВТ/ФАИТУ) и карьеры инженера-программиста
 
 # 🚀 Мои проекты за Неделю 1
 
@@ -10,10 +10,10 @@
 
 | № | Проект | Описание | Ссылка |
 |---|--------|----------|--------|
-| 1️⃣ | **Первая статья** | 📝 Первый опыт вёрстки статьи с семантическими тегами и стилями | [Открыть →](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/article/article.html) |
-| 2️⃣ | **Карточка товара** | 🎨 Отработка CSS-стилей: тени, скругления, hover-эффекты | [Открыть →](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/card/card.html) |
-| 3️⃣ | **Блок регистрации** | 📋 Изучение и работа с формами (`<form>`, `<input>`, `<button>`) | [Открыть →](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/registration/registr.html) |
-| 4️⃣ | **Таблица-расписание** | 📊 Практика с таблицами: `<table>`, `<thead>`, `<tbody>`, `<tfoot>` | [Открыть →](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/table/table.html) |
+| 1️⃣ | **Первая статья** | 📝 Первый опыт вёрстки статьи с семантическими тегами и стилями | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/article/article.html) |
+| 2️⃣ | **Карточка товара** | 🎨 Отработка CSS-стилей: тени, скругления, hover-эффекты | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/card/card.html) |
+| 3️⃣ | **Блок регистрации** | 📋 Изучение и работа с формами (`<form>`, `<input>`, `<button>`) | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/registration/registr.html) |
+| 4️⃣ | **Таблица-расписание** | 📊 Практика с таблицами: `<table>`, `<thead>`, `<tbody>`, `<tfoot>` | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/table/table.html) |
 
 ---
 # 🧭 Мой учебный план: Путь в IT-инженерию
