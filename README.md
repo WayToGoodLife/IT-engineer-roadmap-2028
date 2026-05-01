@@ -10,9 +10,8 @@
 | № | Проект | Описание | Ссылка |
 |---|--------|----------|--------|
 | 1️⃣ | **Первая статья** | 📝 Первый опыт вёрстки статьи с семантическими тегами и стилями | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/article/article.html) |
-| 2️⃣ | **Карточка товара** | 🎨 Отработка CSS-стилей: тени, скругления, hover-эффекты | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/card/card.html) |
-| 3️⃣ | **Блок регистрации** | 📋 Изучение и работа с формами (`<form>`, `<input>`, `<button>`) | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/registration/registr.html) |
-| 4️⃣ | **Таблица-расписание** | 📊 Практика с таблицами: `<table>`, `<thead>`, `<tbody>`, `<tfoot>` | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/table/table.html) |
+| 2️⃣ | **Блок регистрации** | 📋 Изучение и работа с формами (`<form>`, `<input>`, `<button>`) | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/registration/registr.html) |
+| 3️⃣ | **Таблица-расписание** | 📊 Практика с таблицами: `<table>`, `<thead>`, `<tbody>`, `<tfoot>` | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/table/table.html) |
 
 ---
 # 🧭 Мой учебный план: Путь в IT-инженерию
