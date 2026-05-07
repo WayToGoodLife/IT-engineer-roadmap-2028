@@ -5,13 +5,22 @@
 > Первые шаги в вёрстке — знакомство с HTML, CSS и семантической разметкой
 ---
 
-## 📁 Проекты недели
+## 📁 Проекты недели 1
 
 | № | Проект | Описание | Ссылка |
 |---|--------|----------|--------|
 | 1️⃣ | **Первая статья** | 📝 Первый опыт вёрстки статьи с семантическими тегами и стилями | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/article/article.html) |
 | 2️⃣ | **Блок регистрации** | 📋 Изучение и работа с формами (`<form>`, `<input>`, `<button>`) | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/registration/registr.html) |
 | 3️⃣ | **Таблица-расписание** | 📊 Практика с таблицами: `<table>`, `<thead>`, `<tbody>`, `<tfoot>` | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week1/table/table.html) |
+
+## 📁 Проекты недели 2
+
+| № | Проект | Описание | Ссылка |
+|---|--------|----------|--------|
+| 1️⃣ | **Карточки товаров (Flex)** | 🧾 Меню-ассорти с карточками блюд. Flexbox-сетка, адаптив, hover-эффекты, стилизация кнопок | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week2/FlexBox/flex-menu.html) |
+| 2️⃣ | **Галерея изображений (Grid)** | 🖼️ Городские пейзажи. Grid-сетка, `data-title` с затемнением при наведении, адаптив под все экраны | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week2/Grid/Grid-gallery.html) |
+| 3️⃣ | **Туристический лендинг** | 🌍 Let's Go Travel — hero-блок, карточки туров, галерея стран, футер. Flex + Grid, плавный скролл, полный адаптив | [Открыть](https://waytogoodlife.github.io/IT-engineer-roadmap-2028/week2/Landing/trip.html) |
+
 
 ---
 # 🧭 Мой учебный план: Путь в IT-инженерию
